@@ -30,3 +30,5 @@ Si se exceden los límites del paquete:
 1 minuto: 1 centavo.
 1 SMS: 1 centavo.
 1 GB de datos: $7.
+
+<a href="https://github.com/LuisPeza/proyecto_5/blob/main/proyecto_5.ipynb">Abrir proyecto</a>.
